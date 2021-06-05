@@ -1,10 +1,26 @@
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App-Titulo{
+  font-size: 100px;
+  color: lightblue ;
+}
+.App-Circle {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: lightblue;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-Contador {
+  font-size: 100px;
 }
