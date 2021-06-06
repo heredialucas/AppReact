@@ -7,7 +7,7 @@ function App() {
   const [contador, upgradeContador] = useState(0);
 
   return (
-    <div className="App gap-2">
+    <div className="fluid App gap-2">
       <h1 className="App-Titulo">CONTADOR</h1>
       <div className="App-Circle">
         <span className="App-Contador">{contador}</span>
