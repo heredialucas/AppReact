@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/appreact/static/css/main.58a8d17c.chunk.css",
+    "main.js": "/appreact/static/js/main.909c24c1.chunk.js",
+    "main.js.map": "/appreact/static/js/main.909c24c1.chunk.js.map",
+    "runtime-main.js": "/appreact/static/js/runtime-main.a04a1f02.js",
+    "runtime-main.js.map": "/appreact/static/js/runtime-main.a04a1f02.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/appreact/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.eed0a029.chunk.js": "/appreact/static/js/2.eed0a029.chunk.js",
+    "static/js/2.eed0a029.chunk.js.map": "/appreact/static/js/2.eed0a029.chunk.js.map",
+    "static/js/3.8afee0fb.chunk.js": "/appreact/static/js/3.8afee0fb.chunk.js",
+    "static/js/3.8afee0fb.chunk.js.map": "/appreact/static/js/3.8afee0fb.chunk.js.map",
+    "index.html": "/appreact/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/appreact/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.58a8d17c.chunk.css.map": "/appreact/static/css/main.58a8d17c.chunk.css.map",
+    "static/js/2.eed0a029.chunk.js.LICENSE.txt": "/appreact/static/js/2.eed0a029.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a04a1f02.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.eed0a029.chunk.js",
+    "static/css/main.58a8d17c.chunk.css",
+    "static/js/main.909c24c1.chunk.js"
+  ]
+}
