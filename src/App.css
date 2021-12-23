@@ -9,14 +9,14 @@
 
 .App-Titulo {
   font-size: 100px;
-  color: lightblue;
+  color: aliceblue;
 }
 .App-Circle {
   display: flex;
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  background-color: lightblue;
+  background-color: aliceblue;
   justify-content: center;
   align-items: center;
 }
